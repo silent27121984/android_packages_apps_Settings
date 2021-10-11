@@ -94,6 +94,7 @@ android_library {
         "vendor.lineage.fastcharge-V1.0-java",
         "SystemUISharedLib",
         "faceunlock_framework",
+        "custom-preference",
     ],
 
     libs: [
