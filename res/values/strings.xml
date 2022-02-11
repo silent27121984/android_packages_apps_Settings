@@ -14537,8 +14537,10 @@
     <!-- The error message of enter password dialog in bluetooth find broadcast page [CHAR LIMIT=none] -->
     <string name="find_broadcast_password_dialog_connection_error">Can\u2019t connect. Try again.</string>
     <!-- The error message of enter password dialog in bluetooth find broadcast page [CHAR LIMIT=none] -->
-    <string name="find_broadcast_password_dialog_password_error">Wrong password</string>
-
+    <string name="find_broadcast_password_dialog_password_error">Wrong password</string>	
+	<!-- Face Unlock -->
+    <string name="security_settings_face_settings_footer_custom">Face unlock lets you unlock your device by looking at it. Keep in mind:\n\n● Your device may unlock any time you look at it.\n● Your device can be unlocked by someone else if they hold it in front of your face while your eyes are open.\n● Your device may also be unlocked by someone who looks a lot like you, such as a child or identical sibling.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_custom">Data recorded by face unlock will be permanently and securely deleted. After removal, you will need your PIN, pattern, or password to unlock your phone.</string>
 
     <!-- [CHAR LIMIT=NONE] Le audio QR code scanner sub-title -->
     <string name="bt_le_audio_scan_qr_code_scanner">To start listening, center the QR code below</string>
