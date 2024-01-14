@@ -391,12 +391,12 @@ public class FaceEnrollIntroduction extends BiometricEnrollIntroduction {
         }
         if (mForRedo) {
             componentName = new ComponentName(
-                "org.pixelexperience.faceunlock",
-                "org.pixelexperience.faceunlock.FaceEnrollActivity");
+                "org.lineageos.faceunlock",
+                "org.lineageos.faceunlock.FaceEnrollActivity");
         } else {
             componentName = new ComponentName(
-                "org.pixelexperience.faceunlock",
-                "org.pixelexperience.faceunlock.SetupFaceIntroActivity");
+                "org.lineageos.faceunlock",
+                "org.lineageos.faceunlock.SetupFaceIntroActivity");
         }
         intent.setComponent(componentName);
         if (intent.resolveActivity(getPackageManager()) != null) {
