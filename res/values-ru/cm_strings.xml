@@ -118,4 +118,7 @@
     <string name="face_unlock_method_title">Разрешить разблокировку лица на экране блокировки</string>
     <string name="face_unlock_method_default">Когда экран включен</string>
     <string name="face_unlock_method_swipe">При свайпе по экрану блокировки</string>
+	<!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Информация о зарядке</string>
+    <string name="lockscreen_battery_info_summary">Отображение тока зарядки, вольтажа, температуры батареи на экране блокировки</string>
 </resources>
