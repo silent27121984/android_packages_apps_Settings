@@ -110,4 +110,12 @@
     <string name="ambient_display_screen_off_udfps_summary">Для пробуждения экрана и разблокировки удерживайте датчик отпечатков пальцев под дисплеем.</string>
     <string name="storage_warning_internal">Предупреждение: эта опция может работать неправильно или привести к потере данных, поэтому не рекомендуется!</string>
     <string name="assisted_gps_summary">Загружать вспомогательные данные спутников из интернета. Они помогут значительно ускорить подключение к GPS. Для экстренных вызовов использование вспомогательных данных GPS разрешено всегда.</string>
+	<!-- Face Unlock -->
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Удалите существующий скан лица и создайте новый скан</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Повторить сканирование лица</string>
+    <string name="face_redo_confirm_btn">Повторить</string>
+    <string name="face_redo_warning_msg">Хотите удалить существующий скан лица и создать новый?</string>
+    <string name="face_unlock_method_title">Разрешить разблокировку лица на экране блокировки</string>
+    <string name="face_unlock_method_default">Когда экран включен</string>
+    <string name="face_unlock_method_swipe">При свайпе по экрану блокировки</string>
 </resources>
